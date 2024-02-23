@@ -1,0 +1,3 @@
+I added text to the wrong file.
+I added it to the readme but I was supposed to add it here.
+D'oh.
